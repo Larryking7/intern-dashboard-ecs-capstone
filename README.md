@@ -114,7 +114,10 @@ would be the path to surviving a full region outage.
 
 ## Documents
 
-| File | Contents |
-|---|---|
-| [`docs/Capstone-Full-Documentation.docx`](docs/Capstone-Full-Documentation.docx) | Full build log — every stage with commands, real output, understanding checks, and a verbatim error log with root cause and fix |
-| [`docs/Capstone-Presentation.pptx`](docs/Capstone-Presentation.pptx) | Demo-day deck, including the live self-healing and auto-scaling demos |
+Each document is available as a PDF, which GitHub previews in the browser, and as the original
+Office file.
+
+| Document | Read online | Original |
+|---|---|---|
+| **Full implementation documentation** — every stage with the commands run, real output, the understanding checks I worked through, and a verbatim error log with root cause and fix (29 pages) | [PDF](docs/Capstone-Full-Documentation.pdf) | [.docx](docs/Capstone-Full-Documentation.docx) |
+| **Demo-day presentation** — architecture walkthrough plus the live self-healing and auto-scaling demos (14 slides) | [PDF](docs/Capstone-Presentation.pdf) | [.pptx](docs/Capstone-Presentation.pptx) |
